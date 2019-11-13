@@ -10,8 +10,9 @@ Koadic also attempts to be compatible with both Python 2 and Python 3.
 
 ```
 # git clone https://github.com/zerosum0x0/koadic.git
+# apt-get install python3-pip
 # cd koadic
-# pip install -r requirements.txt
+# pip3 install -r requirements.txt
 ```
 
 ### Demo
